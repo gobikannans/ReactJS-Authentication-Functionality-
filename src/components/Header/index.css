@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 97%;
+}
+
+.nav-list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  width: 8%;
+}
+
+.link-name {
+  font-size: 20px;
+  font-family: 'Roboto';
+  cursor: pointer;
+}

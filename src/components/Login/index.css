@@ -1,0 +1,16 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.login-heading {
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+
+.login {
+  cursor: pointer;
+}

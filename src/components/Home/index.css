@@ -1,0 +1,12 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.home-heading {
+  font-size: 40px;
+  font-family: 'Roboto';
+}
